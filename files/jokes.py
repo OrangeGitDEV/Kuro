@@ -1,0 +1,38 @@
+# jokes.py
+# This store jokes for the bot
+
+jokes = [
+    # Add jokes here...
+    "What falls, but never needs a bandage? The rain.",
+    "I was going to tell you a joke about boxing but I forgot the punch line.",
+    "I'm not a fan of spring cleaning. Let's be honest, I'm not into summer, fall, or winter cleaning either.",
+    "Why did the egg hide? It was a little chicken.",
+    "What did the dirt say to the rain? If you keep this up, my name will be mud!",
+    "Why couldn't the sunflower ride its bike? It lost its petals.",
+    "What's an egg's favorite vacation spot? New Yolk City.",
+    "What kind of candy do astronauts like? Mars bars.",
+    "I wanted to buy some camo pants but couldn't find any.",
+    "What month is the shortest of the year? May, it only has three letters.",
+    "What did the snail who was riding on the turtle's back say? Wheeeee!",
+    "What do you call a lazy kangaroo? A pouch potato.",
+    "Why do we tell actors to break a leg? Because every play has a cast.",
+    "What does a pig put on dry skin? Oinkment.",
+    "What do you call it when a snowman throws a tantrum? A meltdown.",
+    "My uncle named his dogs Timex and Rolex. They're his watch dogs.",
+    "Did you hear about the guy whose left side was cut off? He's all right now.",
+    "Which is faster, hot or cold? Hot, because you can catch cold.",
+    "What did one plate say to the other plate? Dinner's on me.",
+    "Why do oranges wear sunscreen? So they don't peel.",
+    "What do you call a pig that does karate? A pork chop.",
+    "What did the left eye say to the right eye? Between you and me, something smells.",
+    "What did the mama tomato say to the baby tomato? Catch up!",
+    "What do you call a fake noodle? An impasta.",
+    "How did the pig get to the hogspital? In a hambulance.",
+    "I'm so good at sleeping I can do it with my eyes closed!",
+    "Why does Humpty Dumpty love autumn? Because he had a great fall.",
+    "What happens when a strawberry gets run over crossing the street? Traffic jam.",
+    "Why did the cow jump over the moon? The farmer had cold hands.",
+    "How does an octopus go into battle? Well-armed.",
+    "How do celebrities stay cool? They have many fans.",
+    "Why do bees have sticky hair? Because they use a honeycomb.",
+]
